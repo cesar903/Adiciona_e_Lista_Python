@@ -1,3 +1,3 @@
-# Adiciona e Lista Python
+# Adiciona e Lista em Python
 <p>O programa é capaz de listar e adicionar dados de cargos de funcionario.<p>
-<p>Ele é capaz de salvar os arquivos em formato ".cvs" para Exel, e ".json" para portabilidade em Json</p>
+<p>Faz o salvamento dos arquivos em formato ".cvs" para Exel, e ".json" para portabilidade em Json</p>
